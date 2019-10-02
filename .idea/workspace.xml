@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6621e87a-c927-4a24-bf95-bfba91072506" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-819903525">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="GoogleSearch" value="1" />
+          <entry key="py" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="GoogleSearch" value="556" />
+          <entry key="Python Console" value="18" />
+          <entry key="py" value="1619" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="2193" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SampleProjects/check.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-70">
+              <caret line="10" column="70" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="70" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SampleProjects/POMDemo/Tests/Login.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="19" column="63" selection-start-line="19" selection-start-column="63" selection-end-line="19" selection-end-column="63" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+                <marker date="1569955271154" expanded="true" signature="295:1536" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SampleProjects/POMDemo/Locators/Locators.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+              <folding>
+                <marker date="1569955476261" expanded="true" signature="17:18" ph="..." />
+                <marker date="1569955476261" expanded="true" signature="17:23" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SampleProjects/POMDemo/Pages/LogonPage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SampleProjects/POMDemo/Pages/homePage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="40" selection-start-line="4" selection-start-column="13" selection-end-line="5" selection-end-column="40" />
+              <folding>
+                <marker date="1569954762988" expanded="true" signature="17:18" ph="..." />
+                <marker date="1569954762988" expanded="true" signature="17:23" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SampleProjects/GoogleSearch" />
+        <option value="$PROJECT_DIR$/SampleProjects/check.py" />
+        <option value="$PROJECT_DIR$/SampleProjects/POMDemo/Pages/homePage.py" />
+        <option value="$PROJECT_DIR$/SampleProjects/POMDemo/Tests/Login.py" />
+        <option value="$PROJECT_DIR$/SampleProjects/POMDemo/Locators/Locators.py" />
+        <option value="$PROJECT_DIR$/SampleProjects/POMDemo/Pages/LogonPage.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SeleniumYoutube" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumYoutube" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumYoutube" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumYoutube" type="462c0819:PsiDirectoryNode" />
+              <item name="SampleProjects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumYoutube" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumYoutube" type="462c0819:PsiDirectoryNode" />
+              <item name="SampleProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="POMDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumYoutube" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumYoutube" type="462c0819:PsiDirectoryNode" />
+              <item name="SampleProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="POMDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="Tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Login">
+    <configuration name="GoogleSearch" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SeleniumYoutube" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SampleProjects" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SampleProjects/GoogleSearch" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Login" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SeleniumYoutube" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SampleProjects/POMDemo/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SampleProjects/POMDemo/Tests/Login.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for check.GoogleSearch.test_sarthik" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumYoutube" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SampleProjects" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;check.GoogleSearch.test_sarthik&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in GoogleSearch" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumYoutube" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SampleProjects" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/SampleProjects/GoogleSearch&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.GoogleSearch" />
+      <item itemvalue="Python tests.Unittests in GoogleSearch" />
+      <item itemvalue="Python tests.Unittests for check.GoogleSearch.test_sarthik" />
+      <item itemvalue="Python.Login" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Login" />
+        <item itemvalue="Python tests.Unittests for check.GoogleSearch.test_sarthik" />
+        <item itemvalue="Python tests.Unittests in GoogleSearch" />
+        <item itemvalue="Python.GoogleSearch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6621e87a-c927-4a24-bf95-bfba91072506" name="Default Changelist" comment="" />
+      <created>1569864836029</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569864836029</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_GoogleSearch - 2019.09.30 at 23h 28m 37s.xml">
+      <configuration name="Unittests in GoogleSearch" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_GoogleSearch - 2019.10.01 at 00h 03m 23s.xml">
+      <configuration name="Unittests in GoogleSearch" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_check_GoogleSearch_test_sarthik - 2019.10.01 at 00h 17m 49s.xml">
+      <configuration name="Unittests for check.GoogleSearch.test_sarthik" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_check_GoogleSearch_test_sarthik - 2019.10.01 at 00h 26m 20s.xml">
+      <configuration name="Unittests for check.GoogleSearch.test_sarthik" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_check_GoogleSearch_test_sarthik - 2019.10.01 at 00h 27m 49s.xml">
+      <configuration name="Unittests for check.GoogleSearch.test_sarthik" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_check_GoogleSearch_test_sarthik - 2019.10.01 at 00h 43m 05s.xml">
+      <configuration name="Unittests for check.GoogleSearch.test_sarthik" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24330357" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" weight="0.3276923" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32923076" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30153847" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SampleProjects/GoogleSearch">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="20" selection-end-line="31" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SampleProjects/check.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-70">
+          <caret line="10" column="70" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="70" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SampleProjects/POMDemo/Pages/homePage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="40" selection-start-line="4" selection-start-column="13" selection-end-line="5" selection-end-column="40" />
+          <folding>
+            <marker date="1569954762988" expanded="true" signature="17:18" ph="..." />
+            <marker date="1569954762988" expanded="true" signature="17:23" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SampleProjects/POMDemo/Locators/Locators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <folding>
+            <marker date="1569955476261" expanded="true" signature="17:18" ph="..." />
+            <marker date="1569955476261" expanded="true" signature="17:23" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SampleProjects/POMDemo/Pages/LogonPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SampleProjects/POMDemo/Tests/Login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="63" selection-start-line="19" selection-start-column="63" selection-end-line="19" selection-end-column="63" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+            <marker date="1569955271154" expanded="true" signature="295:1536" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
